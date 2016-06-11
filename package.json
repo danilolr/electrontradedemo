@@ -1,0 +1,14 @@
+{
+  "name": "electrontradedemo",
+  "version": "0.0.1",
+  "description": "Proof of concept of a candlestick chart using electron.atom.io",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Danilo Luiz Rheinheimer",
+  "homepage": "https://github.com/danilolr/electrontradedemo",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
