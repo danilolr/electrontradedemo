@@ -9,7 +9,7 @@ To run this demo :
 git clone https://github.com/danilolr/electrontradedemo
 
 # Go into the repository
-$ cd electron-quick-start
+$ cd electrontradedemo
 
 # Install the dependencies and run
 $ npm install && npm start
