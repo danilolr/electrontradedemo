@@ -6,8 +6,13 @@
   "scripts": {
     "start": "electron main.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilolr/electrontradedemo.git"
+  },
   "author": "Danilo Luiz Rheinheimer",
   "homepage": "https://github.com/danilolr/electrontradedemo",
+  "license": "Apache 2.0",
   "devDependencies": {
     "electron-prebuilt": "^1.2.0"
   }
