@@ -12,7 +12,7 @@
   },
   "author": "Danilo Luiz Rheinheimer",
   "homepage": "https://github.com/danilolr/electrontradedemo",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "devDependencies": {
     "electron-prebuilt": "^1.2.0"
   }
